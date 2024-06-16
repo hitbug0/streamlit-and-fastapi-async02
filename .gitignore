@@ -1,0 +1,9 @@
+# Ignore direnv directory
+direnv/
+
+# Ignore mypy cache
+.mypy_cache/
+
+# Ignore frontend and backend __pycache__ directories
+*/__pycache__/
+
